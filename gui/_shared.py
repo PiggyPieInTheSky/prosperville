@@ -1,6 +1,5 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines the common elements that are shared across files in the gui folder."""
+"""This file defines the common elements that are shared across files in the gui folder."""
 
 HeightFooter='32px' # height of the footer 
 HeightHeader='32px' # height of the header

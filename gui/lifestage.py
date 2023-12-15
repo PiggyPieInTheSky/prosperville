@@ -1,6 +1,6 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines GUI elements for the main area when game is in play. 
+
+"""This file defines GUI elements for the main area when game is in play. 
 """
 from ipywidgets import GridBox, Layout, Label, HBox, VBox, HTML
 import gui._shared as ui # shared items across front end

@@ -1,6 +1,6 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines the UI element that represents an event.
+
+"""This file defines the UI element that represents an event.
 
 Here we make all the elements into one GUI object with what's called inheritance. 
 Inheritance is a mechanism commonly used in object-oriented programming. 

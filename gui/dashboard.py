@@ -1,6 +1,5 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines GUI elements that render the dashboard display area"""
+"""This file defines GUI elements that render the dashboard display area"""
 
 from ipywidgets import Dropdown, Tab, Layout, HTML, VBox
 from gui._shared import dataframe2html, HeightPlayground

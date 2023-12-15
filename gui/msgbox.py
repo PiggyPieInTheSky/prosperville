@@ -1,6 +1,6 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file displays the message area of the game."""
+
+"""This file displays the message area of the game."""
 
 from ipywidgets import Button, ButtonStyle, Layout, Label, VBox, HTML
 import gui._shared as ui

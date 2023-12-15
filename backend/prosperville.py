@@ -1,6 +1,5 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines the main backend engine of the game. 
+"""This file defines the main backend engine of the game. 
 It contains two entities: the Prosperville class and a variable crntGame. 
 The Prosperville class maintains the most of the backend logic 
 while the crntGame variable is mainly used to store the current running instance of the Prosperville class.

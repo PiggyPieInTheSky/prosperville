@@ -1,6 +1,5 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines the Player class. Player represents a player (human or AI), 
+"""This file defines the Player class. Player represents a player (human or AI), 
 stores player attributes and scores the player based on the attribute values."""
 
 from backend.design import NPeriodsPerMonth

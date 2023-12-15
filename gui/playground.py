@@ -1,6 +1,6 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines GUI elements in the main game area that we may also refer to as the playground
+
+"""This file defines GUI elements in the main game area that we may also refer to as the playground
 """
 from ipywidgets import GridBox, Layout
 from gui.lifestage import tblLifeStagePage # main playing area

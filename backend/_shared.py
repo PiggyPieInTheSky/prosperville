@@ -1,5 +1,4 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
 """This file defines common elements that are shared among backend files."""
 
 from backend.design import NPeriodsPerMonth # number of simulation periods in a month

@@ -1,6 +1,5 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines the miscellaneous backend objects and their base class"""
+"""This file defines the miscellaneous backend objects and their base class"""
 class BackendObjectBase:
     """a base class for all backend objects. This class defines the common routines that are shared among all backend objects."""
     def __init__(self, backend_def):

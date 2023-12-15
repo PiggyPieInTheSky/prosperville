@@ -1,6 +1,5 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file processes stage and event definitions into mapping tables so that they are easily accessed by the game logic. 
+"""This file processes stage and event definitions into mapping tables so that they are easily accessed by the game logic. 
 The step table is also created here. The script also creates backend objects that are associated with each event."""
 import math
 import numpy as np

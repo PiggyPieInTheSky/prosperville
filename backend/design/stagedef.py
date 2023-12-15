@@ -1,6 +1,5 @@
 # Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
- Copyright (C) 2023, Bank of America.  The file below is licensed to LSC for use with HSoF.  All other rights are reserved.
-""This file defines the stages of the game. See code documentation for more details."""
+"""This file defines the stages of the game. See code documentation for more details."""
 
 from collections import namedtuple
 
